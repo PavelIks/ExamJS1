@@ -1,0 +1,58 @@
+body
+{
+    background: #0b1a23;
+}
+
+.gruppa-knopok .button
+{
+    background-color: #272949;
+    border: 3px solid #bde5e5;
+    color: white;
+    padding: 1% 1%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 190px;
+}
+
+.centr-dlia-div-knopok
+{
+    width: 50%; margin: 0 auto; text-align: center;
+}
+
+.pricing-box-container1
+{
+    margin: 0 auto;
+    text-align: center;
+    width: 450px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.pricing-box-container2
+{
+    color: wheat;
+    background-color: #504267;
+    text-align: center;
+    border: 5px groove #8aadad;
+}
+
+p, ul
+{
+    font-size: 50px;
+    color: wheat;
+    background-color: #3341ff42;
+    text-align: center;
+    border: 5px groove #8aadad;
+}
+
+h1, h2, h3
+{
+    color: #8aadad;
+    text-align: center;
+    font: italic 200% fantasy;
+}
